@@ -36,4 +36,4 @@ Cantidad | Cantidad de vehiculos hurtados
 Este Dataset es importante por que permite describir el problema del hurto de vehiculos en Colombia, se pueden identificar tendencias de hurto por sitios, por municipios, por tipos de vehiculos.
 
 ## Problema a responder
-Qué patrones se pueden identificar en los hurtos de vehiculos en Colombia.
+Qué patrones se pueden identificar en los hurtos de vehiculos en Colombia, para establecer medidas o politicas efectivas tendientes a la reducción del hurto.
