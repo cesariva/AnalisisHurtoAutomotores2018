@@ -8,4 +8,5 @@ Integrantes:
 ## Contenido
 
 1. [Descripción del Dataset](./descripcion.md)
-
+1. [Documento respuestas](./Practica2.pdf)
+1. [Carpeta código y archivos CSV](./src)
